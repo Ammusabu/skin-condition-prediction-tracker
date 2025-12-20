@@ -1,0 +1,8 @@
+{
+  "Acne": 0,
+  "Carcinoma": 1,
+  "Eczema": 2,
+  "Keratosis": 3,
+  "Milia": 4,
+  "Rosacea": 5
+}
