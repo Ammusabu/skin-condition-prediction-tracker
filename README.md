@@ -1,4 +1,5 @@
 # Skin Condition Prediction & Progression Analysis System
+<img width="1920" height="1096" alt="image" src="https://github.com/user-attachments/assets/eae59705-09a6-4dad-a71c-85f7cb9e0ce8" />
 
 Skin conditions such as acne, eczema, rosacea, keratosis, and carcinoma are **progressive in nature** and require continuous monitoring to evaluate disease evolution and treatment effectiveness. However, most existing AI-based dermatological systems focus only on **single-image classification**, lacking mechanisms for **severity quantification** and **longitudinal progression analysis**.
 
